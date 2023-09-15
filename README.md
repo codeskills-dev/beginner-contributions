@@ -21,35 +21,44 @@ Welcome to the [Codeskills](https://codeskills.dev) Beginner-contributions repos
 1. **Fork this Repository**: Click the "Fork" button at the top right to create your own copy.
 
 2. **Clone your Fork**: Clone your forked repository to your local machine.
+
 ```sh
 git clone https://github.com/codeskills-dev/beginner-contributions.git
 ```
 
-3. Add Your Name: Edit the [Contributors.md](/contributors.md) file. Add your GitHub username, profile link and the date you joined the project.
+3. Add Your Name: Edit the [Contributors.md](/CONTRIBUTORS.md) file. Add your GitHub username, profile link and the date you joined the project.
+
 ```md
 - [@YourUsername](https://github.com/YourUsername) (Joined: September 15, 2023)
 ```
 
 5. Commit and Push: Commit your changes with a descriptive message and push to your fork.
+
 ```sh
 git add .
 git commit -m "Add my username to Contributors.md"
 git push origin main
 ```
+
 6. Open a Pull Request: Create a pull request from your fork to this repository. We'll review and merge your contribution!
 
 ## 🌟 Star the Repository
+
 If you find this project helpful or exciting, consider starring it! Your star shows your appreciation and helps more beginners discover this opportunity.
 
 ## 🚀 Share with Others
+
 Spread the word! Share this repository with other beginners and enthusiasts who are looking to kickstart their open source journey. Together, we can learn, grow, and contribute to the world of code.
 
 ## 👏 Join the Community
+
 Join our community at [Codeskills.dev](https://codeskills.dev), learn, ask questions, and share your experiences with other members of the community.
 
 ## 📝 License
+
 This project is licensed under the MIT License. Feel free to use and share it!
 Let's embark on this journey of learning, contributing, and growing together. Happy coding! 🚀
 
 ## Author
+
 - Paul Ehikhuemen ([@pauloe_me](https://twitter.com/pauloe_me))
