@@ -7,5 +7,6 @@ Welcome to the Beginner-Contributions repository! Here's a list of amazing contr
 - [@username](https://github.com/username) (Joined: Month Day, Year)
  -->
 <!-- CONTRIBUTORS -->
+Salamat-noor
 
 - [@lordelogos](https://github.com/lordelogos) (Joined: September 15, 2023)
