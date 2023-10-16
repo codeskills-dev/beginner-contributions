@@ -8,4 +8,4 @@ Welcome to the Beginner-Contributions repository! Here's a list of amazing contr
  -->
 <!-- CONTRIBUTORS -->
 
-- [@lordelogos](https://github.com/lordelogos) (Joined: September 15, 2023)
+workilordelogos(https://github.com/lordelogos) (Joined: September 15, 2023)
